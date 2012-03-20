@@ -14,8 +14,8 @@ For eg.
 
 $hostname = "";//your host name
 $username = "";//your username
-$password = ""//your password
-$database = ""//name of your database
+$password = "";//your password
+$database = "";//name of your database
 
 getDatabaseBlueprint($hostname,$username,$password,$database);
 
