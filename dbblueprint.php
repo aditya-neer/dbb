@@ -156,4 +156,5 @@ function generateNameSpaceCode($host="localhost",$uname="root",$upass="",$databa
         //can't connect to the database
     }
     return 0;
+    //That is all :)
 }
